@@ -1,0 +1,6 @@
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\bin\Debug\jagged_array1.exe.config
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\bin\Debug\jagged_array1.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\bin\Debug\jagged_array1.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\obj\Debug\jagged_array1.csprojResolveAssemblyReference.cache
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\obj\Debug\jagged_array1.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jagged_array1\jagged_array1\obj\Debug\jagged_array1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\bin\Debug\jaggedarray2.exe.config
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\bin\Debug\jaggedarray2.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\bin\Debug\jaggedarray2.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\obj\Debug\jaggedarray2.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\obj\Debug\jaggedarray2.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\jaggedarray2\jaggedarray2\obj\Debug\jaggedarray2.csprojResolveAssemblyReference.cache

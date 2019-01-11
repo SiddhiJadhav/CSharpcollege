@@ -1,0 +1,5 @@
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\add\add\bin\Debug\add.exe.config
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\add\add\bin\Debug\add.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\add\add\bin\Debug\add.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\add\add\obj\Debug\add.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\add\add\obj\Debug\add.pdb
