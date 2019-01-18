@@ -1,0 +1,5 @@
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\arrayList\arrayList\bin\Debug\arrayList.exe.config
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\arrayList\arrayList\bin\Debug\arrayList.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\arrayList\arrayList\bin\Debug\arrayList.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\arrayList\arrayList\obj\Debug\arrayList.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\arrayList\arrayList\obj\Debug\arrayList.pdb
