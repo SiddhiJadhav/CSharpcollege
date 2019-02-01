@@ -1,0 +1,6 @@
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\bin\Debug\bank.exe.config
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\bin\Debug\bank.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\bin\Debug\bank.pdb
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\obj\Debug\bank.exe
+C:\Users\Lab2 PC-17\Documents\Visual Studio 2012\Projects\siddhi38\bank\bank\obj\Debug\bank.pdb
